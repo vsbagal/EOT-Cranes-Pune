@@ -18,4 +18,6 @@ We used SQL to manage our data efficiently by organizing it into tables and opti
 
 3. Power BI
 
+4. Tableau
+
 
