@@ -20,4 +20,8 @@ We used SQL to manage our data efficiently by organizing it into tables and opti
 
 4. Tableau
 
+5. QuickSight 
+
+
+
 
