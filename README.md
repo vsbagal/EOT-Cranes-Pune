@@ -1,5 +1,7 @@
 # EOT-Crane-DA-in-SQL-Python-PowerBI-Tableue-Quicksight
 
+<img src="https://aicranes.com/wp-content/uploads/2020/10/overhead-crane-1.gif" alt="EOTC" width="1100" height="400">
+
 As a company exporting spare parts of EOT cranes from India, we recognize the importance of efficient data analysis to streamline our operations and make 
 informed business decisions. That is why we are leveraging various tools and technologies such as Python for data analysis, SQL for database management,
 Power BI, Tableau, and QuickSight for data visualization. With the help of Python, we can perform exploratory data analysis (EDA) on our datasets to extract 
