@@ -28,6 +28,6 @@ for Data Visualization - We used these powerful data visualization tools to crea
 
 Overall, our data analysis efforts using these tools helped us to make data-driven decisions that improved our operations and enhanced our competitiveness in the market. We were able to identify opportunities for growth, optimize our inventory levels, and improve our customer experience by providing timely and efficient delivery of spare parts.
 
-
+<img src="https://i.pinimg.com/originals/c9/ef/4d/c9ef4d8eea3b9ae322c0163480be7c7c.gif" alt="TWC" width="1100" height="400">
 
 
