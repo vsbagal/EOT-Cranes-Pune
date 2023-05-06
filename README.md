@@ -14,4 +14,11 @@ our data. By combining these tools, we can make data-driven decisions that optim
 
 We used Python to perform exploratory data analysis (EDA) on our datasets, which helped us to identify patterns and trends in our data. Through EDA, we gained insights into our customers' buying behavior, such as which spare parts are most frequently purchased and which parts are most commonly replaced. We also used Python to perform predictive analytics, such as forecasting future demand for certain spare parts based on historical data.
 
+2. SQL for Database Management -
+
+We used SQL to manage our data efficiently by organizing it into tables and optimizing queries for faster data retrieval. With SQL, we were able to create a well-structured database that allowed us to quickly retrieve and analyze specific data points.
+
+
+
+
 
