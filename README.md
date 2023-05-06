@@ -18,6 +18,10 @@ We used Python to perform exploratory data analysis (EDA) on our datasets, which
 
 We used SQL to manage our data efficiently by organizing it into tables and optimizing queries for faster data retrieval. With SQL, we were able to create a well-structured database that allowed us to quickly retrieve and analyze specific data points.
 
+3. Power BI
+
+
+
 
 
 
